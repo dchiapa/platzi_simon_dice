@@ -1,0 +1,14 @@
+/*          Archivo de estilos para los Alerts          */
+.alertContainer {
+  background-color: bisque;
+  border: 1px solid red;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  padding: 10px;
+  z-index: 500;
+  width: 25vw;
+}
